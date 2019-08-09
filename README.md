@@ -18,9 +18,11 @@ Constraints
 1<=N<=10^5
 The array consists of 1-N distinct numbers.4. Pink Floyd and Happiness
 
-sample input
+sample input:
 5
+
 1 2 4 3 5
 
-output
+output:
+
 happy
